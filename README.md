@@ -1,7 +1,7 @@
 # Project Turtle
 
 ## 목표
-### Turtle 라이브러리로 할 수 있는 것을 최대한 한다.
+### Turtle 라이브러리로 무엇을 할 수 있는지 알아본다.
 
 ## 파일 리스트
 - test.py
